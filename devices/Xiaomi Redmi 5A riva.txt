@@ -1,5 +1,6 @@
 [UNINSTALL]
 com.google.android.gms                          # Google Play services
+com.google.android.gms                          # Google Play services
 com.lbe.security.miui                           # Xiaomi Permissions
 com.xiaomi.xmsf                                 # Xiaomi service framework 
 com.xiaomi.location.fused                       # Xiaomi - Fused Location Provider
