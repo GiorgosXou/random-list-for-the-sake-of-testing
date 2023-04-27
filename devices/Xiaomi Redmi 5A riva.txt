@@ -27,13 +27,10 @@ com.google.android.configupdater
 
 [INSTALL]
 com.simplemobiletools.gallery.pro      # Gallery
-com.simplemobiletools.calendar.pro     # Calendar 
 net.sourceforge.opencamera             # Open Camera
 app.organicmaps                        # Organic Maps
-org.dslul.openboard.inputmethod.latin  # OpenBoard - Keyboard
 com.artifex.mupdf.viewer.app           # MuPDF viewer
 com.mhss.app.mybrain                   # My Brain - Notes
-org.videolan.vlc                       # VLC - video player
 protect.videoeditor                    # Video Transcoder - Editor
 org.schabi.newpipe                     # NewPipe - YouTube client
 im.vector.app                          # Element - Matrix client
